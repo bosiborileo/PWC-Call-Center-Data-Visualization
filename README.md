@@ -3,7 +3,7 @@
 # # Call Center Dashboard
 
 #[Call Center Dashboard]
-(Call Center viz.png)
+![Call Center Dashboard](./Call%20Center%20viz.png)
 
 ## Overview
 This dashboard provides a comprehensive analysis of call center data, visualizing key performance metrics across various categories. It helps in understanding customer service trends, agent performance, call reasons, sentiment analysis, and overall customer experience. The dashboard is divided into multiple visual components, each representing a unique aspect of call center operations.
